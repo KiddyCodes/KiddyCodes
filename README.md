@@ -6,5 +6,6 @@ Hi there,
 
 - Hi am currently creating something nice
 - Am currently learning Node
-- Ask me about Flutter![image](https://user-images.githubusercontent.com/73255283/129458469-1aea2135-bd88-4d0c-be3b-6282d999c9c2.png,style:fontsize:10)
+- Ask me about Flutter!
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KiddyCodes&count_private=true&show_icons=true&theme=dark)
