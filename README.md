@@ -12,10 +12,8 @@ Hi there👋, I'm Marvellous,
 - 📫 How to reach me: Whatapp :@07042366596, Facebook: @Marvellous felix
 - ⚡ Fun fact: Gamer, Music lover, Hangout😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiddyCodes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
-  <img width="28%" src="https://github-readme-stats.vercel.app/api?username=KiddyCodes&show_icons=true&theme=tokyonight" />
-  <img width="28%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiddyCodes&theme=tokyonight" />
-  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiddyCodes&theme=tokyonight" />
+  <img width="28%" height=20 src="https://github-readme-stats.vercel.app/api?username=KiddyCodes&show_icons=true&theme=tokyonight" />
+  <img width="28%"  height=20 src="https://github-readme-streak-stats.herokuapp.com/?user=KiddyCodes&theme=tokyonight" />
+  <img width="28%"  height=20 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiddyCodes&theme=tokyonight" />
 </p>
