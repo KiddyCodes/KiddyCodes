@@ -12,7 +12,6 @@ Hi there👋, I'm Marvellous,
 
 <p> <img width="28%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiddyCodes&theme=tokyonight" /> </p>
 
-
 <p>
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=KiddyCodes&show_icons=true&theme=tokyonight" />
   <img width="48%"   src="https://github-readme-streak-stats.herokuapp.com/?user=KiddyCodes&theme=tokyonight" />
