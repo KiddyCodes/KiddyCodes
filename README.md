@@ -12,8 +12,9 @@ Hi there👋, I'm Marvellous,
 - 📫 How to reach me: Whatapp :@07042366596, Facebook: @Marvellous felix
 - ⚡ Fun fact: Gamer, Music lover, Hangout😄
 
+<p> <img width="28%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiddyCodes&theme=tokyonight" /> </p>
+
 <p align="center">
-  <img width="38%" height="50" src="https://github-readme-stats.vercel.app/api?username=KiddyCodes&show_icons=true&theme=tokyonight" />
-  <img width="38%"  height="50" src="https://github-readme-streak-stats.herokuapp.com/?user=KiddyCodes&theme=tokyonight" />
-  <img width="28%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiddyCodes&theme=tokyonight" />
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=KiddyCodes&show_icons=true&theme=tokyonight" />
+  <img width="48%"   src="https://github-readme-streak-stats.herokuapp.com/?user=KiddyCodes&theme=tokyonight" />
 </p>
