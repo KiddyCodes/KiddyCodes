@@ -1,6 +1,6 @@
 # Marvellous Amadi
 
-   Hi there👋, I'm Marvellous,
+   Hi there👋, I'm Wizard,
 
 - 🔭 I’m currently working on ...some small app projects using Flutter
 - 🌱 I’m currently learning ...JAVA,React,JS
