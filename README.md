@@ -1,4 +1,4 @@
-# Marvellous Felix
+# Marvellous Amadi
 
    Hi there👋, I'm Marvellous,
 
@@ -10,10 +10,10 @@
 - 📫 How to reach me: Whatapp :@07042366596, Facebook: @Marvellous felix
 - ⚡ Fun fact: Gamer, Music lover, Hangout😄
 
-<p> <img width="28%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiddyCodes&theme=tokyonight" /> </p>
+<p> <img width="28%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WIZARDonCODE&theme=tokyonight" /> </p>
 
 <p>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=KiddyCodes&show_icons=true&theme=tokyonight" />
-  <img width="48%"   src="https://github-readme-streak-stats.herokuapp.com/?user=KiddyCodes&theme=tokyonight" />
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=WIZARDonCODE&show_icons=true&theme=tokyonight" />
+  <img width="48%"   src="https://github-readme-streak-stats.herokuapp.com/?user=WIZARDonCODE&theme=tokyonight" />
 </p>
 
